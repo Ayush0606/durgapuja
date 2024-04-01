@@ -111,7 +111,7 @@
     align-items: flex-end;
     flex-direction: column;
     text-align: end;
-    background: rgba(0, 0, 0, 0.807);
+    background: rgba(0, 0, 0, 0);
     padding: 2rem 1rem 2rem 2rem;
     position: absolute;
     top: 40px;
