@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/durgapuja/static/css/main.22be60c5.css",
+    "main.js": "/durgapuja/static/js/main.3ee9336e.js",
+    "static/media/inno.jpg": "/durgapuja/static/media/inno.647b8f8b31a29e7749a4.jpg",
+    "static/media/build.jpg": "/durgapuja/static/media/build.4ac56f6fc5f925cb597e.jpg",
+    "static/media/arc.jpg": "/durgapuja/static/media/arc.af01d1dc30e5dc5c396f.jpg",
+    "static/media/holi.jpg": "/durgapuja/static/media/holi.18a4324ba185e3439ffd.jpg",
+    "static/media/gift.jpg": "/durgapuja/static/media/gift.ee250cb40dd3a649b9ae.jpg",
+    "static/media/grp.jpg": "/durgapuja/static/media/grp.740e6230aa0e947c9b81.jpg",
+    "static/media/cms.jpg": "/durgapuja/static/media/cms.4ca39592ca6f63f587a9.jpg",
+    "static/media/pic.png": "/durgapuja/static/media/pic.15c1f9708bca3ebfcba1.png",
+    "static/media/dholak.png": "/durgapuja/static/media/dholak.f4ba6b70b94bb7f4322f.png",
+    "static/media/sitar.png": "/durgapuja/static/media/sitar.fec7d304ca5d4e30f49a.png",
+    "static/media/harmonium.png": "/durgapuja/static/media/harmonium.0330927ffadeead2e24a.png",
+    "static/media/guitar.png": "/durgapuja/static/media/guitar.435a472a6d717e2b9d35.png",
+    "static/media/pic2.png": "/durgapuja/static/media/pic2.25fdd751fa5771239e29.png",
+    "static/media/trumpet.png": "/durgapuja/static/media/trumpet.22bcaf52f406f4e18552.png",
+    "static/media/music.png": "/durgapuja/static/media/music.c8fb99938c6a3a06bc7a.png",
+    "index.html": "/durgapuja/index.html",
+    "main.22be60c5.css.map": "/durgapuja/static/css/main.22be60c5.css.map",
+    "main.3ee9336e.js.map": "/durgapuja/static/js/main.3ee9336e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.22be60c5.css",
+    "static/js/main.3ee9336e.js"
+  ]
+}
