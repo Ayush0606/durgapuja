@@ -8,8 +8,9 @@
      padding: 0.5rem 6rem;
      /* background-color: rgb(182, 102, 11); */
      background-color: #ca5802c4;
-      backdrop-filter: blur(1px);
-/*      position: fixed; */
+   opacity: 0.5; 
+      filter: alpha(opacity=50);
+     position: fixed;
     
     
  }
